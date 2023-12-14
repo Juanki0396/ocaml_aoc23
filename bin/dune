@@ -1,0 +1,5 @@
+(executables
+ (public_names day_1 day_1_extra)
+ (names day_1 day_1_extra)
+ (libraries ocaml_aoc23))
+
