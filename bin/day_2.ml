@@ -1,6 +1,5 @@
 open Ocaml_aoc23
 
-
 type color = Red of int | Green of int | Blue of int
 type subset = { red: int; green: int; blue: int }
 type game = { id: int; subsets: subset list }

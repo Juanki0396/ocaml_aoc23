@@ -1,5 +1,6 @@
 (executables
- (public_names day_1 day_1_extra day_2)
- (names day_1 day_1_extra day_2)
- (libraries ocaml_aoc23))
+ (public_names day_1 day_1_extra day_2 day_3)
+ (names day_1 day_1_extra day_2 day_3)
+ (libraries ocaml_aoc23 str)
+ )
 
